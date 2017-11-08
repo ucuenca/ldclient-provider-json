@@ -1,0 +1,983 @@
+{
+    "expr": "OR(Composite(AA.AuN='victor saquicela'),Composite(AA.AuN='hugo saquicela'),Composite(AA.AuN='victor hugo saquicela'))",
+    "entities": [
+        {
+            "logprob": -19.41,
+            "Id": 2155357634,
+            "Ti": "geolinked data and inspire through an application case",
+            "Y": 2010,
+            "D": "2010-11-02",
+            "CC": 24,
+            "ECC": 24,
+            "RId": [
+                2015191210,
+                2101906686,
+                1483669204,
+                2165928641,
+                2029718927,
+                1754959153,
+                1575138747,
+                142874589,
+                2288778924
+            ],
+            "W": [
+                "application",
+                "case",
+                "data",
+                "geolinked",
+                "inspire"
+            ],
+            "AA": [
+                {
+                    "AuN": "luis m vilchesblazquez",
+                    "AuId": 2063064146,
+                    "AfN": "technical university of madrid",
+                    "AfId": 88060688
+                },
+                {
+                    "AuN": "boris villazonterrazas",
+                    "AuId": 2043479320,
+                    "AfN": "technical university of madrid",
+                    "AfId": 88060688
+                },
+                {
+                    "AuN": "victor saquicela",
+                    "AuId": 2021415645,
+                    "AfN": "technical university of madrid",
+                    "AfId": 88060688
+                },
+                {
+                    "AuN": "alexander de leon",
+                    "AuId": 2150116440,
+                    "AfN": "technical university of madrid",
+                    "AfId": 88060688
+                },
+                {
+                    "AuN": "oscar corcho",
+                    "AuId": 703301073,
+                    "AfN": "technical university of madrid",
+                    "AfId": 88060688
+                },
+                {
+                    "AuN": "asuncion gomezperez",
+                    "AuId": 2247736927,
+                    "AfN": "technical university of madrid",
+                    "AfId": 88060688
+                }
+            ],
+            "F": [
+                {
+                    "FN": "rdf",
+                    "FId": 147497476
+                },
+                {
+                    "FN": "linked data",
+                    "FId": 69075417
+                },
+                {
+                    "FN": "management science",
+                    "FId": 539667460
+                },
+                {
+                    "FN": "data science",
+                    "FId": 2522767166
+                },
+                {
+                    "FN": "cartography",
+                    "FId": 58640448
+                },
+                {
+                    "FN": "data mining",
+                    "FId": 124101348
+                },
+                {
+                    "FN": "database",
+                    "FId": 77088390
+                },
+                {
+                    "FN": "geography",
+                    "FId": 205649164
+                },
+                {
+                    "FN": "computer science",
+                    "FId": 41008148
+                }
+            ],
+            "C": {
+                "CN": "gis",
+                "CId": 1140348717
+            },
+            "E": "{\"DN\":\"GeoLinked data and INSPIRE through an application case\",\"IA\":{\"IndexLength\":106,\"InvertedIndex\":{\"In\":[0],\"this\":[1],\"paper\":[2],\"we\":[3,83],\"present\":[4],\"the\":[5,12,50,72,101],\"process\":[6],\"that\":[7,17,26],\"has\":[8],\"been\":[9],\"followed\":[10,94],\"for\":[11,71],\"development\":[13],\"of\":[14,20,32,77,104],\"an\":[15,85],\"application\":[16,43],\"makes\":[18],\"use\":[19],\"several\":[21],\"heterogeneous\":[22],\"Spanish\":[23,51],\"public\":[24],\"datasets\":[25],\"are\":[27],\"related\":[28],\"to\":[29,90],\"three\":[30],\"themes\":[31],\"INSPIRE\":[33],\"Directive,\":[34],\"specifically\":[35],\"Administrative\":[36],\"Units,\":[37],\"Hydrography,\":[38],\"and\":[39,54,64,75],\"Statistical\":[40],\"Units.\":[41],\"Our\":[42],\"aims\":[44],\"at\":[45],\"analysing\":[46],\"existing\":[47],\"relations\":[48],\"between\":[49],\"coastal\":[52],\"area\":[53],\"different\":[55],\"statistical\":[56],\"variables\":[57],\"such\":[58,81],\"as\":[59],\"population,\":[60],\"unemployment,\":[61],\"dwelling,\":[62],\"industry,\":[63],\"building\":[65],\"trade.\":[66],\"Besides\":[67],\"providing\":[68],\"methodological\":[69],\"guidelines\":[70],\"generation,\":[73],\"publishing\":[74],\"exploitation\":[76],\"Linked\":[78],\"Data\":[79],\"from\":[80],\"datasets,\":[82],\"provide\":[84],\"important\":[86],\"innovation\":[87],\"with\":[88,100],\"respect\":[89],\"other\":[91,96],\"similar\":[92],\"processes\":[93],\"in\":[95],\"initiatives\":[97],\"by\":[98],\"dealing\":[99],\"geometrical\":[102],\"information\":[103],\"features.\":[105]}},\"S\":[{\"Ty\":3,\"U\":\"https://www.researchgate.net/profile/Oscar_Corcho/publication/221589415_GeoLinked_data_and_INSPIRE_through_an_application_case/links/0912f50b3329b1cede000000.pdf\"},{\"Ty\":1,\"U\":\"http://dl.acm.org/citation.cfm?id=1869858\"},{\"Ty\":1,\"U\":\"http://oa.upm.es/6165/\"},{\"Ty\":1,\"U\":\"http://dblp.uni-trier.de/db/conf/gis/gis2010.html#BlazquezVSLCG10\"},{\"Ty\":1,\"U\":\"http://doi.acm.org/10.1145/1869790.1869858\"}],\"VFN\":\"Advances in Geographic Information Systems\",\"VSN\":\"GIS\",\"DOI\":\"10.1145/1869790.1869858\",\"CC\":{\"1483669204\":[\"The transformation and publication of the OpenStreetMap [ 12 ] and Ordnance Survey [11] data according to the Linked Data principles have added a new dimension to the Web of Data.\"],\"2101906686\":[\"The notion of Linked Data refers to the recommended best practices for exposing, sharing, and connecting RDF data via dereferenceable URIs on the Semantic Web [ 1 ].\"],\"1575138747\":[\"Taking into account that the SCOVO and the FAO geopolitical ontologies were available in the English language, and it was important for our application to have labels in Spanish, we have used the LabelTranslator system [ 6 ] to carry out the task of ontology localization.\"],\"2165928641\":[\"This interface combines the facet browsing paradigm [ 8 ] with map-based visualization using the Google Maps API.\"],\"2015191210\":[\"Linked Data has been recently suggested as one of the best alternatives for creating these shared information spaces [ 9 ].\\u001bThese best practices have been adopted by an increasing number of data providers, leading to the creation of a global data space containing billions of assertions - the Web of Data [ 9 ].\"],\"2029718927\":[\"The transformation and publication of the OpenStreetMap [12] and Ordnance Survey [ 11 ] data according to the Linked Data principles have added a new dimension to the Web of Data.\"]},\"RP\":[{\"Id\":2015191210,\"CoC\":12},{\"Id\":2029718927,\"CoC\":11},{\"Id\":1993977866,\"CoC\":8},{\"Id\":1491110638,\"CoC\":6},{\"Id\":2107756083,\"CoC\":6},{\"Id\":2340092791,\"CoC\":6},{\"Id\":1483669204,\"CoC\":5},{\"Id\":1979977067,\"CoC\":5}],\"ANF\":[{\"FN\":\"Luis M.\",\"LN\":\"Vilches-Blázquez\",\"S\":1},{\"FN\":\"Boris\",\"LN\":\"Villazón-Terrazas\",\"S\":2},{\"FN\":\"Victor\",\"LN\":\"Saquicela\",\"S\":3},{\"FN\":\"Alexander de\",\"LN\":\"León\",\"S\":4},{\"FN\":\"Oscar\",\"LN\":\"Corcho\",\"S\":5},{\"FN\":\"Asunción\",\"LN\":\"Gómez-Pérez\",\"S\":6}],\"BV\":\"Proceedings of the 18th SIGSPATIAL International Conference on Advances in Geographic Information Systems\",\"BT\":\"p\"}"
+        },
+        {
+            "logprob": -19.502,
+            "Id": 2073927345,
+            "Ti": "geographical linked data a spanish use case",
+            "Y": 2010,
+            "D": "2010-09-01",
+            "CC": 15,
+            "ECC": 15,
+            "RId": [
+                2015191210,
+                2101906686,
+                1483669204,
+                2165928641,
+                2124851202,
+                2029718927,
+                1575138747,
+                1542806489,
+                142874589,
+                15498311,
+                2288778924
+            ],
+            "W": [
+                "case",
+                "data",
+                "geographical",
+                "linked",
+                "spanish"
+            ],
+            "AA": [
+                {
+                    "AuN": "alexander de leon",
+                    "AuId": 2150116440,
+                    "AfN": "technical university of madrid",
+                    "AfId": 88060688
+                },
+                {
+                    "AuN": "victor saquicela",
+                    "AuId": 2021415645,
+                    "AfN": "technical university of madrid",
+                    "AfId": 88060688
+                },
+                {
+                    "AuN": "luis m vilches",
+                    "AuId": 2226943429,
+                    "AfN": "technical university of madrid",
+                    "AfId": 88060688
+                },
+                {
+                    "AuN": "boris villazonterrazas",
+                    "AuId": 2043479320,
+                    "AfN": "technical university of madrid",
+                    "AfId": 88060688
+                },
+                {
+                    "AuN": "freddy priyatna",
+                    "AuId": 2303112934,
+                    "AfN": "technical university of madrid",
+                    "AfId": 88060688
+                },
+                {
+                    "AuN": "oscar corcho",
+                    "AuId": 703301073,
+                    "AfN": "technical university of madrid",
+                    "AfId": 88060688
+                }
+            ],
+            "F": [
+                {
+                    "FN": "linked data",
+                    "FId": 69075417
+                },
+                {
+                    "FN": "use case",
+                    "FId": 39424602
+                },
+                {
+                    "FN": "world wide web",
+                    "FId": 136764020
+                },
+                {
+                    "FN": "operations research",
+                    "FId": 42475967
+                },
+                {
+                    "FN": "data mining",
+                    "FId": 124101348
+                },
+                {
+                    "FN": "computer science",
+                    "FId": 41008148
+                }
+            ],
+            "C": {
+                "CN": "i semantics",
+                "CId": 2625637742
+            },
+            "E": "{\"DN\":\"Geographical linked data: a Spanish use case\",\"IA\":{\"IndexLength\":81,\"InvertedIndex\":{\"We\":[0],\"present\":[1],\"the\":[2,9,40,76],\"process\":[3],\"that\":[4,14,23],\"has\":[5],\"been\":[6],\"followed\":[7,69],\"for\":[8],\"development\":[10],\"of\":[11,17,79],\"an\":[12,60],\"application\":[13,33],\"makes\":[15],\"use\":[16],\"several\":[18],\"heterogeneous\":[19],\"Spanish\":[20,41],\"public\":[21],\"datasets\":[22],\"are\":[24],\"related\":[25],\"to\":[26,65],\"administrative,\":[27],\"hydrographic,\":[28],\"and\":[29,44,54],\"statistical\":[30,46],\"domains.\":[31],\"Our\":[32],\"aims\":[34],\"at\":[35],\"analysing\":[36],\"existing\":[37],\"relations\":[38],\"between\":[39],\"coastal\":[42],\"area\":[43],\"different\":[45],\"variables\":[47],\"such\":[48],\"as\":[49],\"unemployment,\":[50],\"population,\":[51],\"dwelling,\":[52],\"industry,\":[53],\"building\":[55],\"trade.\":[56],\"Moreover,\":[57],\"we\":[58],\"provide\":[59],\"important\":[61],\"innovation\":[62],\"with\":[63,75],\"respect\":[64],\"other\":[66,71],\"similar\":[67],\"processes\":[68],\"in\":[70],\"initiatives\":[72],\"by\":[73],\"dealing\":[74],\"geometrical\":[77],\"information\":[78],\"features.\":[80]}},\"S\":[{\"Ty\":3,\"U\":\"http://oa.upm.es/6167/1/Geographical_Linked_Data_A_Spanish_Use_Case.pdf\"},{\"Ty\":1,\"U\":\"http://dl.acm.org/citation.cfm?id=1839753\"},{\"Ty\":1,\"U\":\"http://portal.acm.org/citation.cfm?doid=1839707.1839753\"},{\"Ty\":1,\"U\":\"http://oa.upm.es/6167/\"},{\"Ty\":1,\"U\":\"http://dblp.uni-trier.de/db/conf/i-semantics/i-semantics2010.html#LeonSVVPC10\"},{\"Ty\":1,\"U\":\"http://doi.acm.org/10.1145/1839707.1839753\"}],\"VFN\":\"International Conference on Semantic Systems\",\"VSN\":\"I-SEMANTICS\",\"DOI\":\"10.1145/1839707.1839753\",\"CC\":{\"2015191210\":[\"I-SEMANTICS Triplification Challenge 2010 Graz, Austria Copyright 2010 ACM 978-1-4503-0014-8/10/09 ...$10.00. semantics is explicitly dened [ 2 ].\"],\"2029718927\":[\"The transformation and publication of the OpenStreetMap [1] and Ordnance Survey [ 6 ] data according to the Linked Data principles have added a new dimension to the Web of Data.\"],\"1483669204\":[\"The transformation and publication of the OpenStreetMap [ 1 ] and Ordnance Survey [6] data according to the Linked Data principles have added a new dimension to the Web of Data.\"],\"2165928641\":[\"This interface combines the faceted browsing paradigm [ 9 ] with map-based visualization using the Google Maps API 16 . Thus for instance, the application is able to\"],\"2101906686\":[\"Technically, Linked Data is about employing the RDF language and the HTTP protocol to publish structured data on the Web and to eectively connect data between dierent data sources through deferenceable URIs [ 3 ].\"]},\"RP\":[{\"Id\":1483669204,\"CoC\":9},{\"Id\":2029718927,\"CoC\":7},{\"Id\":2015191210,\"CoC\":6},{\"Id\":1979977067,\"CoC\":5}],\"ANF\":[{\"FN\":\"Alexander de\",\"LN\":\"León\",\"S\":1},{\"FN\":\"Victor\",\"LN\":\"Saquicela\",\"S\":2},{\"FN\":\"Luis M.\",\"LN\":\"Vilches\",\"S\":3},{\"FN\":\"Boris\",\"LN\":\"Villazón-Terrazas\",\"S\":4},{\"FN\":\"Freddy\",\"LN\":\"Priyatna\",\"S\":5},{\"FN\":\"Oscar\",\"LN\":\"Corcho\",\"S\":6}],\"BV\":\"Proceedings of the 6th International Conference on Semantic Systems\",\"BT\":\"p\"}"
+        },
+        {
+            "logprob": -20.426,
+            "Id": 992652367,
+            "Ti": "literature review of data mining applications in academic libraries",
+            "Y": 2015,
+            "D": "2015-01-07",
+            "CC": 6,
+            "ECC": 6,
+            "RId": [
+                2140190241,
+                2410128037,
+                2147953360,
+                2033626294,
+                561380108,
+                2035147384,
+                2152064955,
+                1483428028,
+                1514174278,
+                2134332934,
+                2492907864,
+                1975555018,
+                1985744124,
+                2009675159,
+                2073775196,
+                1968001853,
+                2030305608,
+                1970108898,
+                2125070741,
+                1749441524,
+                2027989150,
+                2022783990,
+                2129303780,
+                2170120259,
+                2138965487,
+                2018854626,
+                174873391,
+                1983690005,
+                2028823771,
+                2042097349,
+                1583141510,
+                2091924276,
+                2099418876,
+                1965210240,
+                2089824453,
+                2000375638,
+                1968643799,
+                823977920,
+                1494093767,
+                1985890218,
+                2084192517,
+                2107250715,
+                1983232000,
+                2085353024,
+                2069035097,
+                173795648,
+                75194040,
+                1977408081,
+                1527138798,
+                1991814047,
+                2092033811,
+                2070852212,
+                2135988998,
+                1996683976,
+                2055214003,
+                2028876984,
+                2072175761,
+                128613736,
+                2004236713,
+                1991385399,
+                2249756996,
+                2500996420,
+                2737276361,
+                2237982142,
+                1524552037,
+                2482303101,
+                989636473
+            ],
+            "W": [
+                "academic",
+                "applications",
+                "data",
+                "libraries",
+                "literature",
+                "mining",
+                "review"
+            ],
+            "AA": [
+                {
+                    "AuN": "lorena siguenzaguzman",
+                    "AuId": 2306635715,
+                    "AfN": "university of cuenca",
+                    "AfId": 189914110
+                },
+                {
+                    "AuN": "victor saquicela",
+                    "AuId": 1665431955,
+                    "AfN": "university of cuenca",
+                    "AfId": 189914110
+                },
+                {
+                    "AuN": "elina avilaordonez",
+                    "AuId": 2508467031,
+                    "AfN": "university of cuenca",
+                    "AfId": 189914110
+                },
+                {
+                    "AuN": "joos vandewalle",
+                    "AuId": 1964643177,
+                    "AfN": "katholieke universiteit leuven",
+                    "AfId": 99464096
+                },
+                {
+                    "AuN": "dirk cattrysse",
+                    "AuId": 2151670560,
+                    "AfN": "katholieke universiteit leuven",
+                    "AfId": 99464096
+                }
+            ],
+            "F": [
+                {
+                    "FN": "data science",
+                    "FId": 2522767166
+                },
+                {
+                    "FN": "library science",
+                    "FId": 161191863
+                },
+                {
+                    "FN": "world wide web",
+                    "FId": 136764020
+                },
+                {
+                    "FN": "information retrieval",
+                    "FId": 23123220
+                },
+                {
+                    "FN": "data mining",
+                    "FId": 124101348
+                },
+                {
+                    "FN": "computer science",
+                    "FId": 41008148
+                }
+            ],
+            "J": {
+                "JN": "j acad libr",
+                "JId": 40528764
+            },
+            "E": "{\"DN\":\"Literature Review of Data Mining Applications in Academic Libraries\",\"IA\":{\"IndexLength\":199,\"InvertedIndex\":{\"This\":[0],\"article\":[1,37],\"provides\":[2,168],\"a\":[3],\"comprehensive\":[4,187],\"literature\":[5,189],\"review\":[6,190],\"and\":[7,30,50,52,64,72,88,92,98,136,145,155,158,186],\"classification\":[8,97],\"method\":[9],\"for\":[10,32],\"data\":[11,44,107,128,192],\"mining\":[12,45,108,129,193],\"techniques\":[13,130,194],\"applied\":[14,110,195],\"to\":[15,41,85,196],\"academic\":[16,132,188,197],\"libraries.\":[17,198],\"To\":[18,176],\"achieve\":[19],\"this,\":[20],\"forty-one\":[21],\"practical\":[22],\"contributions\":[23],\"over\":[24],\"the\":[25,42,56,80,102,117,125,164,169,182],\"period\":[26],\"1998–2014\":[27],\"were\":[28],\"identified\":[29],\"reviewed\":[31],\"their\":[33,53],\"direct\":[34],\"relevance.\":[35],\"Each\":[36],\"was\":[38],\"categorized\":[39],\"according\":[40],\"main\":[43,58],\"functions:\":[46],\"clustering,\":[47],\"association,\":[48],\"classification,\":[49],\"regression;\":[51],\"application\":[54,126],\"in\":[55,111,131],\"four\":[57],\"library\":[59,112],\"aspects:\":[60],\"services,\":[61],\"quality,\":[62],\"collection,\":[63],\"usage\":[65,73],\"behavior.\":[66],\"Findings\":[67],\"indicate\":[68,115],\"that\":[69,116,167],\"both\":[70],\"collection\":[71,86],\"behavior\":[74],\"analyses\":[75],\"have\":[76],\"received\":[77],\"most\":[78,104],\"of\":[79,90,121,127,140,152,172,191],\"research\":[81],\"attention,\":[82],\"especially\":[83],\"related\":[84],\"development\":[87],\"usability\":[89],\"websites\":[91],\"online\":[93],\"services\":[94],\"respectively.\":[95],\"Furthermore,\":[96],\"regression\":[99],\"models\":[100],\"are\":[101],\"two\":[103],\"commonly\":[105],\"used\":[106],\"functions\":[109],\"settings.\\r\\n\\r\\nAdditionally,\":[113],\"results\":[114],\"top\":[118],\"6\":[119],\"journals\":[120],\"articles\":[122,174],\"published\":[123],\"on\":[124],\"libraries\":[133],\"are:\":[134],\"College\":[135],\"Research\":[137],\"Libraries,\":[138],\"Journal\":[139,151],\"Academic\":[141],\"Librarianship,\":[142],\"Information\":[143],\"Processing\":[144],\"Management,\":[146,157],\"Library\":[147],\"Hi\":[148],\"Tech,\":[149],\"International\":[150],\"Knowledge,\":[153],\"Culture\":[154],\"Change\":[156],\"The\":[159],\"Electronic\":[160],\"Library.\":[161],\"Scopus\":[162],\"is\":[163],\"multidisciplinary\":[165],\"database\":[166],\"best\":[170],\"coverage\":[171],\"journal\":[173],\"identified.\":[175],\"our\":[177],\"knowledge,\":[178],\"this\":[179],\"study\":[180],\"represents\":[181],\"first\":[183],\"systematic,\":[184],\"identifiable\":[185]}},\"S\":[{\"Ty\":3,\"U\":\"https://lirias.kuleuven.be/bitstream/123456789/499632/1/post-print.pdf\"},{\"Ty\":1,\"U\":\"http://www.sciencedirect.com/science/article/pii/S009913331500107X\"},{\"Ty\":1,\"U\":\"https://lirias.kuleuven.be/handle/123456789/499632\"}],\"VFN\":\"The Journal of Academic Librarianship\",\"V\":41,\"I\":4,\"FP\":499,\"LP\":510,\"DOI\":\"10.1016/j.acalib.2015.06.007\",\"ANF\":[{\"FN\":\"Lorena\",\"LN\":\"Siguenza-Guzman\",\"S\":1},{\"FN\":\"Victor\",\"LN\":\"Saquicela\",\"S\":2},{\"FN\":\"Elina\",\"LN\":\"Avila-Ordóñez\",\"S\":3},{\"FN\":\"Joos\",\"LN\":\"Vandewalle\",\"S\":4},{\"FN\":\"Dirk\",\"LN\":\"Cattrysse\",\"S\":5}],\"BV\":\"The Journal of Academic Librarianship\",\"BT\":\"a\"}"
+        },
+        {
+            "logprob": -20.842,
+            "Id": 2139348279,
+            "Ti": "analisis de la influencia de las propiedades semanticas en los sistemas de recomendacion",
+            "Y": 2014,
+            "D": "2014-08-31",
+            "CC": 3,
+            "ECC": 3,
+            "RId": [
+                2171960770,
+                2133109597,
+                2124591829,
+                1690919088,
+                1570159982,
+                2105953200,
+                2098146087,
+                1599562392,
+                2133899802
+            ],
+            "W": [
+                "analisis",
+                "influencia",
+                "propiedades",
+                "recomendacion",
+                "semanticas",
+                "sistemas"
+            ],
+            "AA": [
+                {
+                    "AuN": "kenneth samuel palacio baus",
+                    "AuId": 1969997080,
+                    "AfN": "university of cuenca",
+                    "AfId": 189914110
+                },
+                {
+                    "AuN": "mauricio espinoza mejia",
+                    "AuId": 2273716818,
+                    "AfN": "university of cuenca",
+                    "AfId": 189914110
+                },
+                {
+                    "AuN": "victor saquicela",
+                    "AuId": 1665431955,
+                    "AfN": "university of cuenca",
+                    "AfId": 189914110
+                },
+                {
+                    "AuN": "humberto alban",
+                    "AuId": 2165184860,
+                    "AfN": "university of cuenca",
+                    "AfId": 189914110
+                },
+                {
+                    "AuN": "johnny avila",
+                    "AuId": 2309348715
+                },
+                {
+                    "AuN": "xavier riofrio",
+                    "AuId": 2668759288
+                }
+            ],
+            "F": [
+                {
+                    "FN": "performance art",
+                    "FId": 554144382
+                },
+                {
+                    "FN": "cartography",
+                    "FId": 58640448
+                }
+            ],
+            "E": "{\"DN\":\"Análisis de la Influencia de las Propiedades Semánticas en los Sistemas de Recomendación\",\"IA\":{\"IndexLength\":195,\"InvertedIndex\":{\"Resumen:Este\":[0],\"articulo\":[1],\"propone\":[2],\"un\":[3,29],\"procedimiento\":[4],\"para\":[5,34],\"la\":[6,12,21,40,47],\"evaluacion\":[7],\"del\":[8,54],\"impacto\":[9],\"que\":[10,50,69,80],\"tiene\":[11,73],\"inclusion\":[13,114],\"de\":[14,23,25,31,39,46,49,56,83,86],\"determinadaspropiedades\":[15],\"semanticas\":[16],\"y\":[17,68],\"sus\":[18],\"combinaciones\":[19,85],\"en\":[20,36,59,94],\"estimacion\":[22],\"recomendaciones\":[24],\"contenidos\":[26],\"audiovisuales,generadas\":[27],\"por\":[28],\"sistema\":[30],\"recomendacion\":[32],\"semantico\":[33],\"usuarios\":[35],\"el\":[37,51,60,81,91],\"domino\":[38],\"Television\":[41],\"Digital.\":[42],\"Este\":[43],\"trabajo\":[44],\"parte\":[45],\"hipotesis\":[48],\"incremento\":[52],\"moderado\":[53],\"numero\":[55],\"propiedades\":[57,87],\"involucradas\":[58],\"calculo\":[61],\"delas\":[62],\"predicciones\":[63],\"mejora\":[64],\"paulatinamente\":[65],\"su\":[66],\"precision\":[67],\"cada\":[70],\"propiedad\":[71],\"semantica\":[72],\"una\":[74],\"influencia\":[75],\"especifica.Los\":[76],\"resultados\":[77],\"experimentales\":[78],\"demuestran\":[79],\"uso\":[82],\"diferentes\":[84],\"semanticas,\":[88],\"tiende\":[89],\"areducir\":[90],\"error\":[92,194],\"promedio\":[93],\"distinta\":[95],\"proporcion.\":[96],\"Abstract:\":[100],\"This\":[101,140],\"paper\":[102],\"presents\":[103],\"an\":[104],\"evaluation\":[105],\"procedure\":[106],\"focused\":[107],\"on\":[108,121,144],\"analyzing\":[109],\"the\":[110,113,122,135,145,149,156,177,191],\"impact\":[111],\"of\":[112,115,137,151,179,190],\"determinedsemantic\":[116],\"properties\":[117,153],\"and\":[118],\"their\":[119],\"combinations,\":[120],\"audiovisual\":[123],\"content\":[124],\"recommendation\":[125],\"estimation\":[126,193],\"performed\":[127],\"by\":[128],\"asemantic\":[129],\"recommender\":[130],\"system\":[131],\"to\":[132,186],\"users\":[133],\"in\":[134,155,184],\"domain\":[136],\"Digital\":[138],\"Television.\":[139],\"work\":[141],\"is\":[142],\"based\":[143],\"assumption\":[146],\"that\":[147,176],\"byincreasing\":[148],\"number\":[150],\"semantic\":[152,166],\"involved\":[154],\"prediction\":[157],\"estimation,\":[158],\"its\":[159],\"accuracy\":[160],\"will\":[161],\"be\":[162],\"improved\":[163],\"giventhat\":[164],\"each\":[165],\"property\":[167],\"has\":[168],\"a\":[169,187],\"determined\":[170],\"influence.\":[171],\"The\":[172],\"obtained\":[173],\"results\":[174],\"show\":[175],\"use\":[178],\"different\":[180],\"semanticproperties\":[181],\"combinations\":[182],\"leads,\":[183],\"general,\":[185],\"specific\":[188],\"reduction\":[189],\"average\":[192]}},\"S\":[{\"Ty\":3,\"U\":\"http://www.revistapolitecnica.epn.edu.ec/ojs2/index.php/revista_politecnica2/article/download/331/pdf\"},{\"Ty\":1,\"U\":\"http://www.revistapolitecnica.epn.edu.ec/ojs2/index.php/revista_politecnica2/article/view/331/pdf\"},{\"Ty\":0,\"U\":\"https://www.researchgate.net/profile/Kenneth_Palacio-Baus/publication/283422256_Anlisis_de_la_Influencia_de_las_Propiedades_Semnticas_en_los_Sistemas_de_Recomendacin/links/5637bae108ae78d01d394e87.pdf\"}],\"ANF\":[{\"FN\":\"Kenneth Samuel Palacio\",\"LN\":\"Baus\",\"S\":1},{\"FN\":\"Mauricio Espinoza\",\"LN\":\"Mejía\",\"S\":2},{\"FN\":\"Victor\",\"LN\":\"Saquicela\",\"S\":3},{\"FN\":\"Humberto\",\"LN\":\"Albán\",\"S\":4},{\"FN\":\"Johnny\",\"LN\":\"Ávila\",\"S\":5},{\"FN\":\"Xavier\",\"LN\":\"Riofrío\",\"S\":6}],\"BV\":\"Revista Politécnica\",\"BT\":\"a\"}"
+        },
+        {
+            "logprob": -20.855,
+            "Id": 2339217180,
+            "Ti": "marco de trabajo para la integracion de recursos digitales basado en un enfoque de web semantica",
+            "Y": 2015,
+            "D": "2015-03-01",
+            "CC": 4,
+            "ECC": 4,
+            "RId": [
+                1993977866,
+                1992673035,
+                1558803136,
+                2616619872,
+                1952054437,
+                1547990517,
+                1768289352,
+                78119719,
+                2129211330,
+                2075133769,
+                2089318688,
+                35645256
+            ],
+            "W": [
+                "basado",
+                "digitales",
+                "enfoque",
+                "integracion",
+                "marco",
+                "para",
+                "recursos",
+                "semantica",
+                "trabajo",
+                "web"
+            ],
+            "AA": [
+                {
+                    "AuN": "nelson piedra",
+                    "AuId": 2161767721,
+                    "AfN": "universidad tecnica particular de loja",
+                    "AfId": 100205273
+                },
+                {
+                    "AuN": "janneth chicaiza",
+                    "AuId": 2116633237,
+                    "AfN": "universidad tecnica particular de loja",
+                    "AfId": 100205273
+                },
+                {
+                    "AuN": "pricila quichimbo",
+                    "AuId": 2300935017,
+                    "AfN": "universidad tecnica particular de loja",
+                    "AfId": 100205273
+                },
+                {
+                    "AuN": "victor saquicela",
+                    "AuId": 1665431955,
+                    "AfN": "university of cuenca",
+                    "AfId": 189914110
+                },
+                {
+                    "AuN": "elizabeth cadme",
+                    "AuId": 2164218965,
+                    "AfN": "universidad tecnica particular de loja",
+                    "AfId": 100205273
+                },
+                {
+                    "AuN": "jorge lopez",
+                    "AuId": 2113828231,
+                    "AfN": "universidad tecnica particular de loja",
+                    "AfId": 100205273
+                },
+                {
+                    "AuN": "mauricio espinoza",
+                    "AuId": 2123280068,
+                    "AfN": "university of cuenca",
+                    "AfId": 189914110
+                },
+                {
+                    "AuN": "edmundo tovar",
+                    "AuId": 2138526200,
+                    "AfN": "technical university of madrid",
+                    "AfId": 88060688
+                }
+            ],
+            "F": [
+                {
+                    "FN": "world wide web",
+                    "FId": 136764020
+                },
+                {
+                    "FN": "data mining",
+                    "FId": 124101348
+                },
+                {
+                    "FN": "database",
+                    "FId": 77088390
+                }
+            ],
+            "J": {
+                "JN": "risti revista iberica de sistemas e tecnologias de informacao",
+                "JId": 2737035245
+            },
+            "E": "{\"DN\":\"Marco de Trabajo para la Integración de Recursos Digitales Basado en un Enfoque de Web Semántica\",\"IA\":{\"IndexLength\":107,\"InvertedIndex\":{\"From\":[0],\"the\":[1,12,21,45,74,85,88],\"point\":[2],\"of\":[3,5,25,35,47,79,90],\"view\":[4],\"access\":[6],\"to\":[7,72,99],\"metadata\":[8,26],\"from\":[9],\"distributed\":[10],\"repositories,\":[11],\"Open\":[13],\"Archives\":[14],\"Initiative\":[15],\"(OAI)\":[16],\"proposed\":[17],\"a\":[18,32,51],\"protocol\":[19,30],\"for\":[20,87],\"interchange\":[22],\"and\":[23,64,93,102],\"harvesting\":[24,78],\"called\":[27],\"OAI-PMH.\":[28],\"This\":[29],\"provide\":[31],\"low\":[33],\"degree\":[34],\"interoperability,\":[36],\"however,\":[37],\"with\":[38],\"an\":[39],\"approach\":[40],\"based\":[41],\"on\":[42],\"semantic\":[43],\"technologies,\":[44],\"interoperability\":[46,103],\"data\":[48,96],\"can\":[49,58],\"reach\":[50],\"higher\":[52],\"level;\":[53],\"thus,\":[54],\"each\":[55],\"digital\":[56,80],\"library\":[57],\"retain\":[59],\"their\":[60],\"specific\":[61],\"local\":[62],\"qualities\":[63],\"will\":[65],\"not\":[66],\"require\":[67],\"reassign\":[68],\"them\":[69],\"in\":[70,97],\"order\":[71,98],\"standardize\":[73],\"exchange,\":[75],\"re-use\":[76],\"or\":[77],\"resources.\":[81],\"In\":[82],\"this\":[83],\"paper,\":[84],\"process\":[86],\"extraction\":[89],\"metadata,\":[91],\"generation\":[92],\"publishing\":[94],\"linked\":[95],\"improve\":[100],\"integration\":[101],\"between\":[104],\"resources\":[105],\"stored\":[106]}},\"S\":[{\"Ty\":3,\"U\":\"http://www.scielo.mec.pt/pdf/rist/nspe3/nspe3a06.pdf\"},{\"Ty\":1,\"U\":\"http://www.scielo.mec.pt/scielo.php?script=sci_arttext&pid=S1646-98952015000100006\"}],\"VFN\":\"RISTI: Revista Ibérica de Sistemas e Tecnologias de Informação\",\"FP\":55,\"LP\":70,\"DOI\":\"10.17013/risti.e3.55-70\",\"ANF\":[{\"FN\":\"Nelson\",\"LN\":\"Piedra\",\"S\":1},{\"FN\":\"Janneth\",\"LN\":\"Chicaiza\",\"S\":2},{\"FN\":\"Pricila\",\"LN\":\"Quichimbo\",\"S\":3},{\"FN\":\"Víctor\",\"LN\":\"Saquicela\",\"S\":4},{\"FN\":\"Elizabeth\",\"LN\":\"Cadme\",\"S\":5},{\"FN\":\"Jorge\",\"LN\":\"López\",\"S\":6},{\"FN\":\"Mauricio\",\"LN\":\"Espinoza\",\"S\":7},{\"FN\":\"Edmundo\",\"LN\":\"Tovar\",\"S\":8}],\"BV\":\"RISTI: Revista Ibérica de Sistemas e Tecnologias de Informação\",\"BT\":\"a\"}"
+        },
+        {
+            "logprob": -20.961,
+            "Id": 2133899802,
+            "Ti": "extraccion de preferencias televisivas desde los perfiles de redes sociales",
+            "Y": 2014,
+            "D": "2014-08-31",
+            "CC": 2,
+            "ECC": 2,
+            "RId": [
+                2102775690,
+                1665997306,
+                2096130203,
+                2039535197,
+                1621792343,
+                2166390741,
+                18146528,
+                2133155002,
+                1969562898,
+                1969890816,
+                1967686486,
+                2165623208,
+                2139348279,
+                2067413869,
+                200512936
+            ],
+            "W": [
+                "desde",
+                "extraccion",
+                "perfiles",
+                "preferencias",
+                "redes",
+                "sociales",
+                "televisivas"
+            ],
+            "AA": [
+                {
+                    "AuN": "mauricio espinoza mejia",
+                    "AuId": 2273716818,
+                    "AfN": "university of cuenca",
+                    "AfId": 189914110
+                },
+                {
+                    "AuN": "victor saquicela",
+                    "AuId": 1665431955,
+                    "AfN": "university of cuenca",
+                    "AfId": 189914110
+                },
+                {
+                    "AuN": "kenneth samuel palacio baus",
+                    "AuId": 1969997080,
+                    "AfN": "university of cuenca",
+                    "AfId": 189914110
+                },
+                {
+                    "AuN": "humberto alban",
+                    "AuId": 2165184860,
+                    "AfN": "university of cuenca",
+                    "AfId": 189914110
+                }
+            ],
+            "F": [
+                {
+                    "FN": "performance art",
+                    "FId": 554144382
+                },
+                {
+                    "FN": "cartography",
+                    "FId": 58640448
+                },
+                {
+                    "FN": "art",
+                    "FId": 142362112
+                }
+            ],
+            "E": "{\"DN\":\"Extracción de Preferencias Televisivas desde los Perfiles de Redes Sociales\",\"IA\":{\"IndexLength\":376,\"InvertedIndex\":{\"Resumen:\":[0],\"El\":[1,165],\"objetivo\":[2],\"final\":[3,203],\"de\":[4,7,13,15,21,27,41,47,78,89,96,98,107,116,120,129,152,159,172,174,192,195],\"un\":[5,16,80,90,121,170,193],\"sistema\":[6,166],\"recomendacion\":[8,28],\"es\":[9,111],\"satisfacer\":[10],\"las\":[11,113,117],\"necesidades\":[12],\"informacion\":[14,42],\"usuario.\":[17,74],\"En\":[18],\"el\":[19,76,94,150,154,190],\"caso\":[20],\"la\":[22,39,45,85,124,130],\"TV\":[23,196,374],\"digital\":[24,220,373],\"los\":[25,48,69,146],\"sistemas\":[26,64],\"han\":[29],\"mostrado\":[30],\"ser\":[31,157],\"una\":[32,163,181],\"excelente\":[33],\"alternativa\":[34],\"para\":[35,52,56,84],\"hacer\":[36],\"frente\":[37],\"a\":[38,127,145,206,272,346,353,361,372],\"sobrecarga\":[40],\"y\":[43,71,177,188],\"sugerir\":[44],\"seleccion\":[46],\"programas\":[49],\"mas\":[50,82],\"interesantes\":[51],\"ver.\":[53],\"Sin\":[54],\"embargo,\":[55],\"que\":[57,62,153,184],\"esto\":[58],\"ocurra\":[59],\"se\":[60,92,178],\"requiere\":[61],\"estos\":[63],\"consideren\":[65],\"en\":[66,123,135,169,180],\"su\":[67],\"diseno\":[68],\"intereses\":[70],\"preferencias\":[72,118],\"del\":[73,87],\"Con\":[75],\"fin\":[77,151],\"proporcionar\":[79],\"enfoque\":[81],\"robusto\":[83],\"modelacion\":[86],\"perfil\":[88,155,191],\"usuario,\":[91],\"propone\":[93],\"uso\":[95],\"tecnologias\":[97],\"laWeb\":[99,103],\"semantica\":[100],\"junto\":[101],\"con\":[102,149],\"social.\":[104],\"La\":[105],\"idea\":[106,296],\"juntar\":[108],\"ambos\":[109],\"campos\":[110],\"convertir\":[112],\"declaraciones\":[114],\"implicitas\":[115],\"televisivas\":[119],\"usuario\":[122,194],\"Web\":[125,288],\"social,\":[126],\"expresiones\":[128],\"forma\":[131,160],\"sujeto-predicado-\":[132],\"objeto\":[133],\"(conocidas\":[134],\"terminos\":[136],\"semanticos\":[137],\"como\":[138],\"tripletes).\":[139],\"Esta\":[140],\"combinacion\":[141],\"permitira\":[142],\"anadir\":[143],\"significado\":[144],\"datos\":[147],\"capturados\":[148],\"pueda\":[156],\"aprovechado\":[158],\"sencilla\":[161],\"por\":[162],\"maquina.\":[164],\"propuesto\":[167],\"confia\":[168],\"grupo\":[171],\"ontologias\":[173],\"diferentes\":[175],\"dominios\":[176],\"basa\":[179],\"arquitectura\":[182],\"generica\":[183],\"permite\":[185],\"capturar\":[186],\"manipular,\":[187],\"serializar\":[189],\"digital.\":[197],\"Abstract:\":[201],\"The\":[202,295,348],\"goal\":[204],\"of\":[205,219,241,285,297,307,318,355,371],\"recommender\":[207,223],\"system\":[208,350],\"is\":[209,254,301],\"to\":[210,227,232,246,251,270,302,316,333,364],\"satisfy\":[211],\"the\":[212,217,222,234,239,242,263,278,283,286,292,304,308,313,319,334,339,369],\"user’s\":[213,309],\"information\":[214,235],\"needs.\":[215],\"In\":[216,268],\"case\":[218],\"TV,\":[221],\"systems\":[224,258],\"have\":[225],\"proven\":[226],\"be\":[228,343],\"an\":[229],\"excellent\":[230],\"alternative\":[231],\"address\":[233],\"overload\":[236],\"and\":[237,266,360,367],\"facilitate\":[238],\"selection\":[240],\"most\":[243],\"interesting\":[244],\"programs\":[245],\"watch.\":[247],\"However,\":[248],\"for\":[249,276,357],\"this\":[250],\"occur\":[252],\"it\":[253],\"required\":[255],\"that\":[256,338],\"these\":[257],\"consider\":[259],\"at\":[260],\"their\":[261],\"design\":[262],\"user\":[264,279],\"interests\":[265],\"preferences.\":[267],\"order\":[269],\"provide\":[271],\"more\":[273],\"robust\":[274],\"approach\":[275],\"modeling\":[277],\"profile,\":[280],\"we\":[281],\"propose\":[282],\"use\":[284],\"Semantic\":[287],\"technologies\":[289],\"together\":[290],\"with\":[291],\"Social\":[293],\"Web.\":[294],\"merge\":[298],\"both\":[299],\"fields\":[300],\"convert\":[303],\"implicit\":[305],\"declarations\":[306],\"television\":[310],\"preferences\":[311],\"on\":[312,352],\"social\":[314],\"Web,\":[315],\"expressions\":[317],\"shape:\":[320],\"subject-predicate-object\":[321],\"(known\":[322],\"in\":[323],\"semantic\":[324],\"terms\":[325],\"as\":[326],\"triplets).\":[327],\"This\":[328],\"combination\":[329],\"will\":[330],\"add\":[331],\"meaning\":[332],\"captured\":[335],\"data\":[336],\"so\":[337],\"profile\":[340,370],\"can\":[341],\"easily\":[342],\"exploited\":[344],\"by\":[345],\"machine.\":[347],\"proposed\":[349],\"relies\":[351],\"set\":[354],\"ontologies\":[356],\"different\":[358],\"domains\":[359],\"generic\":[362],\"architecture\":[363],\"capture,\":[365],\"manipulate,\":[366],\"serialize\":[368],\"user.\":[375]}},\"S\":[{\"Ty\":3,\"U\":\"http://www.revistapolitecnica.epn.edu.ec/ojs2/index.php/revista_politecnica2/article/download/328/pdf\"},{\"Ty\":1,\"U\":\"http://www.revistapolitecnica.epn.edu.ec/ojs2/index.php/revista_politecnica2/article/view/328\"}],\"ANF\":[{\"FN\":\"Mauricio Espinoza\",\"LN\":\"Mejía\",\"S\":1},{\"FN\":\"Víctor\",\"LN\":\"Saquicela\",\"S\":2},{\"FN\":\"Kenneth Palacio\",\"LN\":\"Baus\",\"S\":3},{\"FN\":\"Humberto\",\"LN\":\"Albán\",\"S\":4}],\"BV\":\"Revista Politécnica\",\"BT\":\"a\"}"
+        },
+        {
+            "logprob": -20.962,
+            "Id": 2067413869,
+            "Ti": "enriching electronic program guides using semantic technologies and external resources",
+            "Y": 2014,
+            "D": "2014-09-01",
+            "CC": 4,
+            "ECC": 4,
+            "RId": [
+                2137079713,
+                2137542411,
+                2054890044,
+                1972482772,
+                1967686486,
+                2101397084,
+                2123758055,
+                2100261339,
+                1999452875
+            ],
+            "W": [
+                "electronic",
+                "enriching",
+                "external",
+                "guides",
+                "program",
+                "resources",
+                "semantic",
+                "technologies"
+            ],
+            "AA": [
+                {
+                    "AuN": "victor saquicela",
+                    "AuId": 1665431955,
+                    "AfN": "university of cuenca",
+                    "AfId": 189914110
+                },
+                {
+                    "AuN": "mauricio espinozamejia",
+                    "AuId": 2714043441,
+                    "AfN": "university of cuenca",
+                    "AfId": 189914110
+                },
+                {
+                    "AuN": "kenneth palacio",
+                    "AuId": 2551097457,
+                    "AfN": "university of cuenca",
+                    "AfId": 189914110
+                },
+                {
+                    "AuN": "humberto alban",
+                    "AuId": 2165184860,
+                    "AfN": "university of cuenca",
+                    "AfId": 189914110
+                }
+            ],
+            "F": [
+                {
+                    "FN": "semantic web stack",
+                    "FId": 167379230
+                },
+                {
+                    "FN": "semantic computing",
+                    "FId": 511149849
+                },
+                {
+                    "FN": "social semantic web",
+                    "FId": 534406577
+                },
+                {
+                    "FN": "semantic analytics",
+                    "FId": 148792806
+                },
+                {
+                    "FN": "data web",
+                    "FId": 162005631
+                },
+                {
+                    "FN": "semantic grid",
+                    "FId": 103692084
+                },
+                {
+                    "FN": "semantic web rule language",
+                    "FId": 71695816
+                },
+                {
+                    "FN": "semantic web",
+                    "FId": 2129575
+                },
+                {
+                    "FN": "web intelligence",
+                    "FId": 544335954
+                },
+                {
+                    "FN": "semantic search",
+                    "FId": 166423231
+                },
+                {
+                    "FN": "world wide web",
+                    "FId": 136764020
+                },
+                {
+                    "FN": "information retrieval",
+                    "FId": 23123220
+                },
+                {
+                    "FN": "database",
+                    "FId": 77088390
+                },
+                {
+                    "FN": "computer science",
+                    "FId": 41008148
+                }
+            ],
+            "E": "{\"DN\":\"Enriching Electronic Program Guides using semantic technologies and external resources\",\"S\":[{\"Ty\":3,\"U\":\"http://dspace.ucuenca.edu.ec/bitstream/123456789/22018/1/scopus%2065.pdf\"},{\"Ty\":1,\"U\":\"http://ieeexplore.ieee.org/document/6965173/\"},{\"Ty\":1,\"U\":\"http://dx.doi.org/10.1109/CLEI.2014.6965173\"},{\"Ty\":1,\"U\":\"http://dblp.uni-trier.de/db/conf/clei/clei2014.html#SaquicelaMPA14\"},{\"Ty\":1,\"U\":\"http://dspace.ucuenca.edu.ec/handle/123456789/22018\"},{\"Ty\":1,\"U\":\"https://doi.org/10.1109/CLEI.2014.6965173\"}],\"DOI\":\"10.1109/CLEI.2014.6965173\",\"ANF\":[{\"FN\":\"Victor\",\"LN\":\"Saquicela\",\"S\":1},{\"FN\":\"Mauricio\",\"LN\":\"Espinoza-Mejía\",\"S\":2},{\"FN\":\"Kenneth\",\"LN\":\"Palacio\",\"S\":3},{\"FN\":\"Humberto\",\"LN\":\"Albán\",\"S\":4}],\"BV\":\"Computing Conference (CLEI), 2014 XL Latin American\",\"BT\":\"p\"}"
+        },
+        {
+            "logprob": -21.052,
+            "Id": 2017855606,
+            "Ti": "lightweight semantic annotation of geospatial rest ful services",
+            "Y": 2011,
+            "D": "2011-05-29",
+            "CC": 7,
+            "ECC": 7,
+            "RId": [
+                1577231857,
+                2008896880,
+                2109464129,
+                2483235136,
+                2150365753,
+                2491530509,
+                2163201741,
+                1593317353,
+                2161228485,
+                2135177518,
+                1506217276,
+                2097094515,
+                1488012158,
+                2161460560,
+                2121267713,
+                1938016043,
+                1513611537,
+                2074554657,
+                1809074097,
+                2157401363,
+                2035072056,
+                2129753341,
+                1805758951,
+                1587798222,
+                2002323847,
+                2189169867
+            ],
+            "W": [
+                "annotation",
+                "ful",
+                "geospatial",
+                "lightweight",
+                "rest",
+                "semantic",
+                "services"
+            ],
+            "AA": [
+                {
+                    "AuN": "victor saquicela",
+                    "AuId": 2021415645,
+                    "AfN": "technical university of madrid",
+                    "AfId": 88060688
+                },
+                {
+                    "AuN": "luis m vilchesblazquez",
+                    "AuId": 2063064146,
+                    "AfN": "technical university of madrid",
+                    "AfId": 88060688
+                },
+                {
+                    "AuN": "oscar corcho",
+                    "AuId": 703301073,
+                    "AfN": "technical university of madrid",
+                    "AfId": 88060688
+                }
+            ],
+            "F": [
+                {
+                    "FN": "rest",
+                    "FId": 77265313
+                },
+                {
+                    "FN": "world wide web",
+                    "FId": 136764020
+                },
+                {
+                    "FN": "data mining",
+                    "FId": 124101348
+                },
+                {
+                    "FN": "database",
+                    "FId": 77088390
+                },
+                {
+                    "FN": "computer science",
+                    "FId": 41008148
+                }
+            ],
+            "C": {
+                "CN": "eswc",
+                "CId": 2755653720
+            },
+            "E": "{\"DN\":\"Lightweight semantic annotation of geospatial REST ful services\",\"IA\":{\"IndexLength\":102,\"InvertedIndex\":{\"RESTful\":[0,41,82],\"services\":[1,42,83],\"are\":[2,84],\"increasingly\":[3,85],\"gaining\":[4],\"traction\":[5],\"over\":[6],\"WS-*\":[7,11],\"ones.\":[8],\"As\":[9],\"with\":[10,99],\"services,\":[12],\"their\":[13,23],\"semantic\":[14,38,97],\"annotation\":[15,39,98],\"can\":[16],\"provide\":[17],\"benefits\":[18],\"in\":[19,67,78],\"tasks\":[20],\"related\":[21],\"to\":[22,35,93],\"discovery,\":[24],\"composition\":[25],\"and\":[26,53,58,87],\"mediation.\":[27],\"In\":[28],\"this\":[29,96],\"paper\":[30],\"we\":[31],\"present\":[32,63],\"an\":[33],\"approach\":[34,77],\"automate\":[36],\"the\":[37,68,73],\"of\":[40,75],\"using\":[43],\"a\":[44,64,79],\"cross-domain\":[45],\"ontology\":[46],\"like\":[47,51],\"DBpedia,\":[48],\"domain\":[49,70,80],\"ontologies\":[50],\"GeoNames,\":[52],\"additional\":[54],\"external\":[55],\"resources\":[56],\"(suggestion\":[57],\"synonym\":[59],\"services).\":[60],\"We\":[61],\"also\":[62],\"preliminary\":[65],\"evaluation\":[66],\"geospatial\":[69],\"that\":[71,89],\"proves\":[72],\"feasibility\":[74],\"our\":[76],\"where\":[81],\"appearing\":[86],\"highlights\":[88],\"it\":[90],\"is\":[91],\"possible\":[92],\"carry\":[94],\"out\":[95],\"satisfactory\":[100],\"results.\":[101]}},\"S\":[{\"Ty\":3,\"U\":\"https://link.springer.com/content/pdf/10.1007%2F978-3-642-21064-8_23.pdf\"},{\"Ty\":1,\"U\":\"https://link.springer.com/chapter/10.1007/978-3-642-21064-8_23\"},{\"Ty\":1,\"U\":\"https://rd.springer.com/chapter/10.1007/978-3-642-21064-8_23\"},{\"Ty\":1,\"U\":\"http://dblp.uni-trier.de/db/conf/esws/eswc2011-2.html#SaquicelaBC11\"},{\"Ty\":1,\"U\":\"http://dx.doi.org/10.1007/978-3-642-21064-8_23\"},{\"Ty\":1,\"U\":\"http://oa.upm.es/6968/\"},{\"Ty\":1,\"U\":\"http://dl.acm.org/citation.cfm?id=2017963\"},{\"Ty\":0,\"U\":\"http://link.springer.com/10.1007/978-3-642-21064-8_23\"}],\"VFN\":\"Extended Semantic Web Conference\",\"VSN\":\"ESWC\",\"DOI\":\"10.1007/978-3-642-21064-8_23\",\"CC\":{\"2097094515\":[\"More recently, these (usually heavyweight) approaches have started to be adapted into a more lightweight manner for the semantic description of RESTful services [1, 5,  8 ]. However, most of the processes related to the annotation of RESTful services (e.g., [2, 11]) still require a Lightweight Semantic Annotation of Geospatial RESTful Services 331\\u001bThe main proposed formalisms for describing these services are: the Web Application Description Language 1 (WADL), which describes syntactically RESTful services and the resources that they access; its semantic annotation extension [19]; MicroWSMO [3], which uses hREST (HTML for RESTful services) [3, 5]; and SA-REST [2,  8 ], which uses SAWSDL [1] and RDFa 2 to describe service properties.\"],\"2074554657\":[\"SDO is a specification for a programming model that unifies data programming across data source types and provides robust support for common application patterns in a disconnected way [ 22 ].\"],\"1488012158\":[\"Finally, another approach for service description that focuses on automation, and hence can be considered closer to our work, is presented in [ 17 ].\"],\"1938016043\":[\"More recently, these (usually heavyweight) approaches have started to be adapted into a more lightweight manner for the semantic description of RESTful services [ 1 , 5, 8]. However, most of the processes related to the annotation of RESTful services (e.g., [2, 11]) still require a Lightweight Semantic Annotation of Geospatial RESTful Services 331\\u001bThe main proposed formalisms for describing these services are: the Web Application Description Language 1 (WADL), which describes syntactically RESTful services and the resources that they access; its semantic annotation extension [19]; MicroWSMO [3], which uses hREST (HTML for RESTful services) [3, 5]; and SA-REST [2, 8], which uses SAWSDL [ 1 ] and RDFa 2 to describe service properties.\\u001bOther approaches are more lightweight (e.g., [ 1 , 2]).\\u001bSome of the difficulties that arise in the semantic annotation of RESTful services are briefly described in [ 1 , 11].\"],\"1577231857\":[\"Machineoriented Web applications and APIs that are conformant to the REST architectural style [ 23 ], normally referred to as RESTful Web services, have started appearing mainly due to their relative simplicity and their natural suitability for the Web.\"],\"2129753341\":[\"More recently, these (usually heavyweight) approaches have started to be adapted into a more lightweight manner for the semantic description of RESTful services [1, 5, 8]. However, most of the processes related to the annotation of RESTful services (e.g., [2,  11 ]) still require a Lightweight Semantic Annotation of Geospatial RESTful Services 331\\u001bSome of the difficulties that arise in the semantic annotation of RESTful services are briefly described in [1,  11 ].\"],\"2002323847\":[\"The main proposed formalisms for describing these services are: the Web Application Description Language 1 (WADL), which describes syntactically RESTful services and the resources that they access; its semantic annotation extension [19]; MicroWSMO [ 3 ], which uses hREST (HTML for RESTful services) [3, 5]; and SA-REST [2, 8], which uses SAWSDL [1] and RDFa 2 to describe service properties.\\u001bThe main proposed formalisms for describing these services are: the Web Application Description Language 1 (WADL), which describes syntactically RESTful services and the resources that they access; its semantic annotation extension [19]; MicroWSMO [3], which uses hREST (HTML for RESTful services) [ 3 , 5]; and SA-REST [2, 8], which uses SAWSDL [1] and RDFa 2 to describe service properties.\"]},\"ANF\":[{\"FN\":\"Víctor\",\"LN\":\"Saquicela\",\"S\":1},{\"FN\":\"Luis. M.\",\"LN\":\"Vilches-Blazquez\",\"S\":2},{\"FN\":\"Oscar\",\"LN\":\"Corcho\",\"S\":3}],\"BV\":\"ESWC'11 Proceedings of the 8th extended semantic web conference on The semanic web: research and applications - Volume Part II\",\"BT\":\"p\"}"
+        },
+        {
+            "logprob": -21.164,
+            "Id": 2294546673,
+            "Ti": "an automatic method for the enrichment of dicom metadata using biomedical ontologies",
+            "Y": 2015,
+            "D": "2015-08-01",
+            "CC": 3,
+            "ECC": 3,
+            "RId": [
+                2163670493,
+                2114063639,
+                509898,
+                2039386673,
+                90362830,
+                2113029162,
+                2123019989,
+                71900649,
+                2014918341,
+                588778535,
+                2395686827,
+                2035930147,
+                1147992873
+            ],
+            "W": [
+                "automatic",
+                "biomedical",
+                "dicom",
+                "enrichment",
+                "metadata",
+                "ontologies"
+            ],
+            "AA": [
+                {
+                    "AuN": "wilson perez",
+                    "AuId": 2721858007,
+                    "AfN": "university of cuenca",
+                    "AfId": 189914110
+                },
+                {
+                    "AuN": "andres tello",
+                    "AuId": 2527174907,
+                    "AfN": "university of cuenca",
+                    "AfId": 189914110
+                },
+                {
+                    "AuN": "victor saquicela",
+                    "AuId": 1665431955,
+                    "AfN": "university of cuenca",
+                    "AfId": 189914110
+                },
+                {
+                    "AuN": "mariaesther vidal",
+                    "AuId": 2126875334,
+                    "AfN": "simon bolivar university",
+                    "AfId": 629287
+                },
+                {
+                    "AuN": "alexandra la cruz",
+                    "AuId": 2434545123,
+                    "AfN": "university of cuenca",
+                    "AfId": 189914110
+                }
+            ],
+            "F": [
+                {
+                    "FN": "world wide web",
+                    "FId": 136764020
+                },
+                {
+                    "FN": "information retrieval",
+                    "FId": 23123220
+                },
+                {
+                    "FN": "database",
+                    "FId": 77088390
+                }
+            ],
+            "C": {
+                "CN": "embc",
+                "CId": 2232857946
+            },
+            "E": "{\"DN\":\"An automatic method for the enrichment of DICOM metadata using biomedical ontologies.\",\"S\":[{\"Ty\":1,\"U\":\"http://dblp.uni-trier.de/db/conf/embc/embc2015.html#PerezTSVC15\"},{\"Ty\":1,\"U\":\"https://www.ncbi.nlm.nih.gov/pubmed/26736812\"},{\"Ty\":1,\"U\":\"http://ieeexplore.ieee.org/document/7318912/\"}],\"VFN\":\"International Conference of the IEEE Engineering in Medicine and Biology Society\",\"VSN\":\"EMBC\",\"DOI\":\"10.1109/EMBC.2015.7318912\",\"ANF\":[{\"FN\":\"Wilson\",\"LN\":\"Perez\",\"S\":1},{\"FN\":\"Andres\",\"LN\":\"Tello\",\"S\":2},{\"FN\":\"Victor\",\"LN\":\"Saquicela\",\"S\":3},{\"FN\":\"Maria-Esther\",\"LN\":\"Vidal\",\"S\":4},{\"FN\":\"Alexandra La\",\"LN\":\"Cruz\",\"S\":5}],\"BV\":\"Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference\",\"BT\":\"p\"}"
+        },
+        {
+            "logprob": -21.274,
+            "Id": 588778535,
+            "Ti": "rdf ization of dicom medical images towards linked health data cloud",
+            "Y": 2015,
+            "D": "2015-01-01",
+            "CC": 3,
+            "ECC": 3,
+            "RId": [
+                634356513,
+                2168457611,
+                71900649,
+                2404734944
+            ],
+            "W": [
+                "cloud",
+                "data",
+                "dicom",
+                "health",
+                "images",
+                "ization",
+                "linked",
+                "medical",
+                "rdf",
+                "towards"
+            ],
+            "AA": [
+                {
+                    "AuN": "andres tello",
+                    "AuId": 2527174907,
+                    "AfN": "university of cuenca",
+                    "AfId": 189914110
+                },
+                {
+                    "AuN": "alexandra la cruz",
+                    "AuId": 2434545123,
+                    "AfN": "university of cuenca",
+                    "AfId": 189914110
+                },
+                {
+                    "AuN": "victor saquicela",
+                    "AuId": 1665431955,
+                    "AfN": "university of cuenca",
+                    "AfId": 189914110
+                },
+                {
+                    "AuN": "mauricio espinoza",
+                    "AuId": 2123280068,
+                    "AfN": "university of cuenca",
+                    "AfId": 189914110
+                },
+                {
+                    "AuN": "mariaesther vidal",
+                    "AuId": 2126875334,
+                    "AfN": "simon bolivar university",
+                    "AfId": 629287
+                }
+            ],
+            "F": [
+                {
+                    "FN": "world wide web",
+                    "FId": 136764020
+                },
+                {
+                    "FN": "information retrieval",
+                    "FId": 23123220
+                },
+                {
+                    "FN": "database",
+                    "FId": 77088390
+                },
+                {
+                    "FN": "computer science",
+                    "FId": 41008148
+                }
+            ],
+            "E": "{\"DN\":\"RDF-ization of DICOM medical images towards linked health data cloud\",\"S\":[{\"Ty\":3,\"U\":\"http://dspace.ucuenca.edu.ec/bitstream/123456789/22017/1/scopus%2012.pdf\"},{\"Ty\":1,\"U\":\"https://link.springer.com/chapter/10.1007/978-3-319-13117-7_193\"},{\"Ty\":1,\"U\":\"http://dspace.ucuenca.edu.ec/handle/123456789/22017\"},{\"Ty\":0,\"U\":\"http://link.springer.com/10.1007/978-3-319-13117-7_193\"}],\"DOI\":\"10.1007/978-3-319-13117-7_193\",\"ANF\":[{\"FN\":\"Andrés\",\"LN\":\"Tello\",\"S\":1},{\"FN\":\"Alexandra La\",\"LN\":\"Cruz\",\"S\":2},{\"FN\":\"Víctor\",\"LN\":\"Saquicela\",\"S\":3},{\"FN\":\"Mauricio\",\"LN\":\"Espinoza\",\"S\":4},{\"FN\":\"María Esther\",\"LN\":\"Vidal\",\"S\":5}],\"BV\":\"\",\"BT\":\"a\"}"
+        }
+    ]
+}
