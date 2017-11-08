@@ -35,7 +35,7 @@ public class JsonPathURIMapper extends JsonPathValueMapper {
 
     @Override
     public List<Value> map(String resourceUri, String selectedValue, ValueFactory factory) {
-        return Collections.singletonList(factory.createURI(selectedValue));
+        return Collections.singletonList((Value) factory.createURI(selectedValue));
     }
 
 }
